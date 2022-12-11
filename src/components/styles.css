@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  background-color: #16a5e1;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  color: #fff;
+}
+
+button:hover {
+  background: yellowgreen;
+}
+
+input {
+  width: 100%;
+  padding: 12px 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+input:focus {
+  background-color: #f6f8fa;
+}
