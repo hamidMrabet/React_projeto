@@ -5,7 +5,6 @@ import Contacts from "./components/Contacts";
 import AddContact from "./components/AddContact";
 import View from "./components/View";
 import Edit from "./components/Edit";
-// import {Container} from "semantic-ui-react"
 import { Container } from "./components/styles";
 
 import "./components/styles.css";
